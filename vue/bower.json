@@ -1,0 +1,21 @@
+{
+  "name": "vue",
+  "homepage": "https://github.com/pandaria/cafe",
+  "authors": [
+    "adu <pandaria_dz@126.com>"
+  ],
+  "description": "front end liberlay dependencies",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "bootstrap": "^3.3.7"
+  }
+}

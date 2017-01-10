@@ -1,0 +1,2 @@
+#Ignore js lib depencencies
+**/bower_components/
